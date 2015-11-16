@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:placement_new}
+# placement_new
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
