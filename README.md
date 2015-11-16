@@ -1,8 +1,9 @@
 
 # placement_new
-TODO: Write a project description
+Test C++'s feature, "placement new",so that we can easy port Geant4 to CUDA.
 ## Installation
-TODO: Describe the installation process
+1. Compile main: `gcc placement_new.cpp -o placement_new`
+2. Run: `./placement_new`
 ## Usage
 TODO: Write usage instructions
 ## Contributing
